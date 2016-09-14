@@ -1,1 +1,3 @@
 add和commit的区别
+
+git tracks changes.
